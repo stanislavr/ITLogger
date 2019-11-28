@@ -13,6 +13,13 @@
       "attention": true,
       "tech": "Sara Wilson",
       "date": "2019-11-28T03:11:06.743Z"
+    },
+    {
+      "id": 3,
+      "message": "project design v2",
+      "attention": false,
+      "tech": "Anton Lytvynenko",
+      "date": "2019-11-28T04:16:04.361Z"
     }
   ],
   "techs": [
