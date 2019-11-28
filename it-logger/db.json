@@ -1,25 +1,11 @@
 {
   "logs": [
     {
-      "id": 1,
-      "message": "Test 1",
-      "attention": true,
-      "tech": "Stanislav Rashevskyi",
-      "date": "2019-11-28T03:10:27.857Z"
-    },
-    {
       "id": 2,
       "message": "need to test website again",
       "attention": true,
       "tech": "Sara Wilson",
       "date": "2019-11-28T03:11:06.743Z"
-    },
-    {
-      "id": 3,
-      "message": "project design v2",
-      "attention": false,
-      "tech": "Anton Lytvynenko",
-      "date": "2019-11-28T04:16:04.361Z"
     }
   ],
   "techs": [
@@ -37,11 +23,6 @@
       "id": 3,
       "firstName": "Danel",
       "lastName": "Gegeev"
-    },
-    {
-      "firstName": "denis",
-      "lastName": "egorov",
-      "id": 4
     }
   ]
 }
